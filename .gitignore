@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+data/superseded\ and\ unused
+
+# large files
+data/OSM_CCT_clipped.tif
+data/Taxi_Routes_clipped_reprojected.geojson
