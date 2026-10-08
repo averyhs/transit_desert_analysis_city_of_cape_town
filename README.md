@@ -86,6 +86,8 @@ The analysis workflow is documented in the Jupyter notebooks:
 
 All processing steps, data sources with URLs and access dates, and methodological decisions are recorded in these notebooks to support reproducibility.
 
+Note that two files were not uploaded to GitHub due to their size (taxi routes and the base map image), but the data is open and can be added back if reproducing this project). 
+
 ## Requirements
 
 - **QGIS 3.x** for spatial analysis and cartography
